@@ -17,7 +17,7 @@ BOOTSTRAP_DIR="$TEMP_DIR/go-bootstrap"
 INSTALLATION_DIR="/opt"
 
 #REPOSITORY="https://go.googlesource.com/go"
-REPOSITORY="https://github.com/golang/go.git"
+REPOSITORY="https://git.oschina.net/yeso/go.git"
 BOOTSTRAP_BRANCH="release-branch.go1.4"
 
 # XXX - edit for different version of Go (see: https://go.googlesource.com/go/+refs)
